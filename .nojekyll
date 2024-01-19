@@ -1,1 +1,7 @@
+git init
+git remote add origin {https://github.com/akasullyl33t/GreatAmericanCalculator.git}
 
+git add -A
+git commit -m "Initial commit"
+git branch -M main
+git push -u origin main
